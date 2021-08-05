@@ -1,5 +1,5 @@
-###   Oi eu sou o Gabriel!👋
--🖥️ Eu estou estudando JavaScript, Html e Css
+###  <h2>Oi eu sou o Gabriel!👋</h2>
+🖥️Eu estou estudando JavaScript, Html e Css
 
 <div>
   <a href="https://github.com/Garycks5">
