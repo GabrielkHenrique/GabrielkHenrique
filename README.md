@@ -4,6 +4,8 @@
 <div>
   <a href="https://github.com/Garycks5">
     <img height="180em" = src="https://github-readme-stats.vercel.app/api?username=Garycks5&show_icons=true&theme=gruvbox&incluide_all_commits_private=true"/>
+    <img height="180em" = src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garycks5&layout=gruvbox"/>
+
     
  </div>
  <div>
