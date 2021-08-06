@@ -1,4 +1,4 @@
-###  <h2>Oi eu sou o Gabriel!👋</h2>
+###  <h2>Oi eu sou o Gabriel!</h2>
 🖥️Estou estudando Html, Css e JavaScript
 
 <div>
