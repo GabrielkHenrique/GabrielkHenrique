@@ -7,7 +7,7 @@
     <img height="180em" = src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielkHenrique&theme=gruvbox"/>
      </div>
   
-  <h2><img src='https://media.giphy.com/media/XeqguPE3q88xsIeMgb/giphy.gif?cid=790b76112f817bccf0d05a0a86049cda57c1fcee3ed96c49&rid=giphy.gif&ct=g' alt='github' height='250px' align='right'></h2> 
+  <h2><img src='https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif?cid=ecf05e47rlwkxvifaaycwc8lrbapkhi1u8luuwdz4zuh11jh&rid=giphy.gif&ct=g' alt='github' height='250px' align='right'></h2> 
   
  <div>
     <a href = "mailto:gabrielrick1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
