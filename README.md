@@ -3,8 +3,8 @@
 
 <div align='center'>
   <a href="https://github.com/Garycks5">
-    <img height="180em" = src="https://github-readme-stats.vercel.app/api?username=GabrielkHenrique&show_icons=true&theme=gruvbox&incluide_all_commits_private=true"/>
-    <img height="180em" = src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielkHenrique&theme=gruvbox"/>
+    <img height="180em" = src="https://github-readme-stats.vercel.app/api?username=GabrielkHenrique&show_icons=true&theme=great-gatsby&incluide_all_commits_private=true"/>
+    <img height="180em" = src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielkHenrique&theme=great-gatsby"/>
      </div>
   
   <h2><img src='https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif?cid=ecf05e47rlwkxvifaaycwc8lrbapkhi1u8luuwdz4zuh11jh&rid=giphy.gif&ct=g' alt='github' height='250px' align='right'></h2> 
