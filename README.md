@@ -7,7 +7,7 @@
     <img height="180em" = src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielkHenrique&theme=great-gatsby"/>
      
   <div align='left'>
-  <h2><img src='https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif?cid=ecf05e47rlwkxvifaaycwc8lrbapkhi1u8luuwdz4zuh11jh&rid=giphy.gif&ct=g' alt='squirtle comendo um onigiri' height='250px'></h2> 
+  <img src='https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif?cid=ecf05e47rlwkxvifaaycwc8lrbapkhi1u8luuwdz4zuh11jh&rid=giphy.gif&ct=g' alt='squirtle comendo um onigiri' height='250px'>
     </div>
   
  <div>
