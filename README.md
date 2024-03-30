@@ -1,5 +1,4 @@
 ###  <h1 align='center'>Oi eu sou o Gabriel!</h1>
-  👨‍🎓 Estou estudando front end
 
 
   <a href="https://github.com/Garycks5">
